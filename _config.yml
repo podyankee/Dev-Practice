@@ -1,0 +1,9 @@
+title: Artist Theme
+email: podyankee@gmail.com
+description: "Thinker // Designer // YouTube"
+
+name: Travis Nailson
+markdown: kramdown
+permalink: pretty
+
+exclude: ["node_modules", "gulpfile.js", "package.json"]
